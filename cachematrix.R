@@ -1,4 +1,5 @@
-## Together, these two functions calculate, cache and return the inverse of a matrix
+## Together, these two functions calculate, cache and return the inverse of matrix 'x'
+## Usage: inverted_matrix <- cacheSolve(makeCacheMatrix(x))
 
 ## makeCacheMatrix returns a list containing functions to:
 ## 1) Set the value of the input matrix (set)
